@@ -1,5 +1,7 @@
 class StaticController < ApplicationController
-	def show
-    	render params[:page]
+	
+
+ 	def home 
+
  	end
 end
